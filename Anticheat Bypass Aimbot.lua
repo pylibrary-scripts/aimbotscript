@@ -10,7 +10,7 @@ local KEY_CONFIG = {
     SaveFile   = "aimbotx_key.txt",
     Title      = "AimbotX",
     Subtitle   = "Enter your key from the website",
-    WebsiteURL = "https://linkvertise.com/9501604/sEbx11SAytTE?o=sharing",
+    WebsiteURL = "https://direct-link.net/9501604/sEbx11SAytTE",
 }
 
 local KS_Players = game:GetService("Players")
